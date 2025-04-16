@@ -1,0 +1,15 @@
+{
+  "name": "3week_infra",
+  "version": "1.0.0",
+  "main": "newServer.js",
+  "type" : "module",
+  "scripts": {
+    "start": "nodemon newServer.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

@@ -1,0 +1,13 @@
+{
+  "name": "1week_infra",
+  "version": "1.0.0",
+  "description": "nodejs week1",
+  "type" : "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
